@@ -83,3 +83,6 @@ DEU MERDA NO CARTÃO DA FABRICA
 - O som de login agora é a trilha do carro do ovo passando na sua rua
 - o sapo não lava o pé
 ```
+
+> muito provavelmente se não tem conhecimentos de linux o git abriu o vim e você ficou preso na tela de edição perdido.
+No vim para iniciar a edição aperte a tecla I do seu teclado e conseguirá escrever. Com a tecla ask você encerra a edição voltando ao estado de comando e para sair do arquivo digite :wq! ou :x!. Viu só ? Simples como voar sem asas.
