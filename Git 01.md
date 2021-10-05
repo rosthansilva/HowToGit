@@ -62,11 +62,20 @@ Para seguir uma melhor pratica pense que o commit precisa de um Assunto, e um co
 Um exemplo bobo de commit :
 
 ```
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+
 DEU MERDA NO CARTÃO DA FABRICA
 ***
 
 - Alteração no checkout
 - alterado branch do git flow para master e não main
 - agora quando o usuário loga parece um prompt que diz " Linux é melhor que windows"
-
+- O som de login agora é a trilha do carro do ovo passando na sua rua
+- o sapo não lava o pé
 ```
