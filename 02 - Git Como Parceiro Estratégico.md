@@ -22,6 +22,9 @@ Então para que possamos ir em partes, como decidimos a melhor estratégia para 
 
 Quais as melhores opções ?
 
+
+### OpenSource Version Control
+
 Vamos iniciar com os Open Sources ... Teriamos então gitlab que por sua vez é o mais famoso, Gogs que é legal mas não tanto e o Gittea, que é super leve e compacto e faz somente seu papel ... **GUARDAR CODIGO**
 
 Apesar de ser um repositório, com a evolução do devops e da tecnologia, os servidores de versionamento de código começaram a acumular algumas funções e dentre os opensource podemos dizer que o gitlab se sai bem nesse acumulo sendo ele também um repositório de container ( Muito fácil de se configurar por sinal ), SCM ( Servidor de Versionamento de código), Pipeline para CI/DC alem de integrar-se com outras ferramentas de forma nativa indo um tanto além de um simples servidor que guarda códigos.
