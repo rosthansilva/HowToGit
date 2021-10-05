@@ -26,4 +26,4 @@ Criei 3 arquivos :
 
 Após a criação dos mesmos eu rodo **git add Frented.nada** em seguida **git add -p Meioarquivo.nada**. Em meio arquivo eu tenho parte do codigo de backend e de front end misturado em um arquivo só ( Por mais que soe absurdo em cenários reais ), usando **git add -p Meioarquivo.nada**, eu posso escolher somente a parte que comete ao fronted e após enviar para staging levar ele ao repósitório remoto com **git push**. Em seguida, todo o restante é parte do backend, logo posso rodar um **git add .** para adicionar todas as mudanças em staging e enviar ao repositório remoto com **git push** em seguida seguro que de todos os commits fazem parte dos mesmos assuntos.
 
-![alt text](img/commit.png)
+![alt text](https://github.com/rosthansilva/HowToGit/blob/main/img/commit.png)
