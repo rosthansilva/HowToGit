@@ -62,6 +62,10 @@ Para seguir uma melhor pratica pense que o commit precisa de um Assunto, e um co
 Um exemplo bobo de commit :
 
 ```
+git commit 
+
+-- 
+
 # Please enter the commit message for your changes. Lines starting
 # with '#' will be ignored, and an empty message aborts the commit.
 #
