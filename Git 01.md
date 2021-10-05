@@ -33,3 +33,40 @@ Após a criação dos mesmos eu rodo **git add Frented.nada** em seguida **git a
 <img src="https://github.com/rosthansilva/HowToGit/blob/main/img/commit.png" alt="Sublime's custom image"/>
 
 </p>
+
+
+## Commit like Pro
+
+Qual o Nivel de importancia de um commit ?
+O nivel de importancia de um commit pode ser medido simplesmente pelo nivel de criticidade da sua aplicação para sua empresa ou seus clientes.
+Se não há a necessidade de uma reversão de seu codigo devido a um erro de um Junior ou um pleno que acidentalmente subiu em sua rede um codigo que não deveria ou não testou o bastante o codigo antes de subir para o reporitório ( O que é muito comum em pequenos times).
+
+O Commit leva com ele uma mensagem e é uma boa pratica que além de um commit ter um assunto/tarefa especifica a ser subido no repositório, ele também tenha uma mensagem com informações relevantes para o trabalho e não seja uma especie de backup do trabalho do membro da squad que cada vez qaue altera algo comita sem saber o que dizer e acaba rodando um git commit -m "a" para aprovação.
+
+como já foi visto acima, a sintax para comitar seu codigo é simples :
+
+```
+## comitando um codigo qualquer ##
+git commit -m "E lá vamos nós"
+```
+
+Dessa forma o git irá enviar seu codigo junto a uma mensagem aos usuários do repositório.
+caso prefira escrever essa mensagem diretamente com o seu editor de texto favorito pode rodar diretamente *git commit*
+e o git irá abrir o seu editor de texto padrão para adição da mensagem que srá enviada com o commit.
+
+
+## Como devo enviar um comit ?
+
+Um commit é quase como um email, é uma marca sua naquele projeto e quanto mais clara for a sua comunicação mais fácil será o entendimento de quem junto com você trabalha.
+Para seguir uma melhor pratica pense que o commit precisa de um Assunto, e um corpo assim como o email. O Assunto sendo o que foir feito e podendo até ficar em caixa alta e o interior do corpo com as mudanças feitas
+Um exemplo bobo de commit :
+
+```
+DEU MERDA NO CARTÃO DA FABRICA
+***
+
+- Alteração no checkout
+- alterado branch do git flow para master e não main
+- agora quando o usuário loga parece um prompt que diz " Linux é melhor que windows"
+
+```
