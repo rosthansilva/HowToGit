@@ -1,7 +1,7 @@
 <p align="center">
 
 
-<img src="https://about.gitlab.com/images/blogimages/moving-to-gitlab-cover.png" alt="Sublime's custom image"/>
+<img src="https://github.com/rosthansilva/HowToGit/blob/main/img/git-cover.png" alt="Sublime's custom image"/>
 
 </p>
 
