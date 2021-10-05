@@ -86,3 +86,21 @@ DEU MERDA NO CARTÃO DA FABRICA
 
 > muito provavelmente se não tem conhecimentos de linux o git abriu o vim e você ficou preso na tela de edição perdido.
 No vim para iniciar a edição aperte a tecla I do seu teclado e conseguirá escrever. Com a tecla ask você encerra a edição voltando ao estado de comando e para sair do arquivo digite :wq! ou :x!. Viu só ? Simples como voar sem asas.
+
+
+<p align="center">
+
+
+<img src="https://c.tenor.com/F3c-Uuu99jkAAAAC/here-we-go-woody-woodpecker.gif" alt="Sublime's custom image"/>
+
+</p>
+
+
+
+
+## REcptulando 
+
+- Staging é uma area de transferencia que prepara para o repositório remoto.
+- Commit é um estado marcado do processo de produção que nos ajuda a entender o processo e se possível/necessário voltar a esse estado anterior
+- Vim é melhor que nano
+- Git é um comando para versionamento e o servidor é onde o codigo acaba ficando no fim das contas
