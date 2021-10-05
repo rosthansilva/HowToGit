@@ -1,3 +1,11 @@
+<p align="center">
+
+
+<img src="https://about.gitlab.com/images/blogimages/moving-to-gitlab-cover.png" alt="Sublime's custom image"/>
+
+</p>
+
+
 # Git precisa fazer sentido
 
 Um dos maiores problemas de tecnologia é " Um time desordenado "
@@ -19,9 +27,3 @@ Vamos iniciar com os Open Sources ... Teriamos então gitlab que por sua vez é 
 Apesar de ser um repositório, com a evolução do devops e da tecnologia, os servidores de versionamento de código começaram a acumular algumas funções e dentre os opensource podemos dizer que o gitlab se sai bem nesse acumulo sendo ele também um repositório de container ( Muito fácil de se configurar por sinal ), SCM ( Servidor de Versionamento de código), Pipeline para CI/DC alem de integrar-se com outras ferramentas de forma nativa indo um tanto além de um simples servidor que guarda códigos.
 
 
-<p align="center">
-
-
-<img src="https://about.gitlab.com/images/blogimages/moving-to-gitlab-cover.png" alt="Sublime's custom image"/>
-
-</p>
