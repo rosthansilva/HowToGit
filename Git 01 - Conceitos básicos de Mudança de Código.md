@@ -102,5 +102,5 @@ No vim para iniciar a edição aperte a tecla I do seu teclado e conseguirá esc
 
 - Staging é uma area de transferencia que prepara para o repositório remoto.
 - Commit é um estado marcado do processo de produção que nos ajuda a entender o processo e se possível/necessário voltar a esse estado anterior
-- Vim é melhor que nano
+- Vim é melhor que nano ( Joke ! )
 - Git é um comando para versionamento e o servidor é onde o codigo acaba ficando no fim das contas
